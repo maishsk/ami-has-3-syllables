@@ -1,20 +1,10 @@
-A.M.I. has the same number as Hello World. Yup 3!
-The number of syllables in A.M.I. rhymes with pee. It does not rhyme with poo!
-You would never pronounce it ahh-wsss - A.M.I. has 3 syllables
-No-one say that AWS rhymes with "jaws"
-E.C.2. has #3syllables 
-S3 also had #3syllables S.S.S.
-Lex - clever play on Alexa. 
-A-Lex-A has #3syllables - just like AMI
-
-
-
-AMI should be pronounced as A-M-I. I am biased (obviously) but I think that even @awscloud is pretty much on board with the fact that their 3 letter product names should all be pronounced with #3syllables 
-
-A thread...
-
-@awscloud has 25 (yes) I counted them 25 different products with exactly 3 letters in them (or derivatives of) - lets go through them one at a time.
-
+A.M.I. has the same number as Hello World. Yup 3! #3syllables
+The number of syllables in A.M.I. Rhymes with pee. It does not rhyme with poo! #3syllables
+You would never pronounce it ahh-wsss - A.M.I. has #3syllables
+No-one says that AWS rhymes with "jaws" #3syllables
+E.C.2. has #3syllables
+S3 also has - guess how many syllables?  S.S.S. #3syllables
+A-Lex-A has #3syllables - just like AMI #3syllables
 A-C-M AWS Certificate Manager - Not ac-em (also not hack-em) #3syllables
 D-M-S Database Migration Service - Not dems nor dee-miss (and also not dimms) #3syllables
 E-C-2 (Well is should actually be E-C-C - but EC2 sounds so much sexier) Elastic Compute Cloud - Not ek-2 (or even eck - other people might get confused with "what the heck2") #3syllables
@@ -40,7 +30,3 @@ S-S-O - Single Sign On - Not sa-so neither ses-o nor se-so (just because I say s
 S-W-F - Simple Workflow Service - Not see-wiff - nor Swiff #3syllables
 V-P-C - Virtual Private Cloud - Not a vee-pic, neither ve-peec nor veep-see #3syllables
 W-A-F - Web - Application Firewall - I concede - this one is #1syllable - there I said it! BUT IT IS NOT #2syllables !!
-
-Except for three exceptions (S3, LEX and WAF) - All the three letter products in @awscloud - are all three effing syllables!!!! #3syllables 
-
-Just like A-M-I - three effing syllables #3syllables
