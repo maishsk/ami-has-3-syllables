@@ -1,4 +1,4 @@
-A.M.I. has the same number as Hello World. Yup 3! #3syllables
+A.M.I. has the same number of syllables as Hello World. Yup 3! #3syllables
 The number of syllables in A.M.I. Rhymes with pee. It does not rhyme with poo! #3syllables
 You would never pronounce it ahh-wsss - A.M.I. has #3syllables
 No-one says that AWS rhymes with "jaws" #3syllables
