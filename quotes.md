@@ -18,7 +18,7 @@ I-A-M - Identity and Access Managment - no-one uses I-AM - (Dr. Suess would be h
 I-O-T - Internet Of Things - Not eye-ot (people might think there are more than 7 dwarfs in the service - eye-o, eye-o it's off to work we go..) #3syllables
 K-M-S Key Management Service - Not kems - nor kee-mes (keemes - the new AWS meme-as-a-service product is probably not a good idea either) #3syllables
 L-E-X - this is actually the product name - Amazon Lex - even though the French might have enjoyed it if it was actually Le'X (but then again people don't like having their Ex in the spotlight) #3syllables
-M-S-K - Managed Streaming for Kafka musk (Elon might not like it), em-sek (could be too fast for us to use) #3syllables
+M-S-K - Managed Streaming for Kafka. It is not pronounced musk (Elon might not like it), em-sek (could be too fast for us to use) #3syllables
 P-H-D - Personal Health Dashboard - Not pee-hud and phud - would get them in trouble with spreading Fear Uncertainty and Doubt #3syllables
 R-A-M - Resource Access Manager - Not (a battering) ram (nor the the ancient Indian king Raam) #3syllables
 R-D-S - Relational Database Service - Not ar-dis, nor ar-dees (and definitely not the new time machine service - tardis) #3syllables
