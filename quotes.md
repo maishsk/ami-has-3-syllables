@@ -5,6 +5,7 @@ No-one says that AWS rhymes with "jaws" #3syllables
 Even @Werner agrees!! https://twitter.com/Werner/status/1182530158026055681 #3syllables
 E.C.2. has #3syllables
 S3 also has - guess how many syllables?  S.S.S. #3syllables
+Even @Werner agree it is #3syllables https://twitter.com/Werner/status/1182530158026055681
 A-Lex-A has #3syllables - just like AMI #3syllables
 A-C-M AWS Certificate Manager - Not ac-em (also not hack-em) #3syllables
 D-M-S Database Migration Service - Not dems nor dee-miss (and also not dimms) #3syllables
