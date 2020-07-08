@@ -31,3 +31,4 @@ S-S-O - Single Sign On - Not sa-so neither ses-o nor se-so (just because I say s
 S-W-F - Simple Workflow Service - Not see-wiff - nor Swiff #3syllables
 V-P-C - Virtual Private Cloud - Not a vee-pic, neither ve-peec nor veep-see #3syllables
 W-A-F - Web - Application Firewall - I concede - this one is #1syllable - there I said it! BUT IT IS NOT #2syllables !!
+AWS for Aerospace and Satellite (A&S) Solutions is not call AWS ASS - it has #3syllables. Just like A-M-I !
