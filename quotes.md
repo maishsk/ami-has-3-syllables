@@ -6,7 +6,6 @@ E.C.2. has #3syllables
 S3 also has - guess how many syllables?  S.S.S. #3syllables
 Even @Werner agrees it is #3syllables https://twitter.com/Werner/status/1182530158026055681
 Deepak @mndoci also agrees that it is #3syllables https://twitter.com/mndoci/status/1295370089739386882
-Mitch @garnaat also agrees that it is #3syllables https://twitter.com/garnaat/status/1295381725841850368
 A-Lex-A has #3syllables - just like AMI #3syllables
 A-C-M AWS Certificate Manager - Not ac-em (also not hack-em) #3syllables
 D-M-S Database Migration Service - Not dems nor dee-miss (and also not dimms) #3syllables
