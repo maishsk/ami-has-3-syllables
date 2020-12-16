@@ -31,5 +31,8 @@ S-Q-S - Simple Queue Service - Not See-ques - nor squeeze #3syllables
 S-S-O - Single Sign On - Not sa-so neither ses-o nor se-so (just because I say so) #3syllables
 S-W-F - Simple Workflow Service - Not see-wiff - nor Swiff #3syllables
 V-P-C - Virtual Private Cloud - Not a vee-pic, neither ve-peec nor veep-see #3syllables
-W-A-F - Web - Application Firewall - I concede - this one is #1syllable - there I said it! BUT IT IS NOT #2syllables !!
+W-A-F - Web Application Firewall - I concede - this one is #1syllable - there I said it! BUT IT IS NOT #2syllables !!
 AWS for Aerospace and Satellite (A&S) Solutions is not called AWS ASS - it has #3syllables. Just like A-M-I !
+F-I-S - AWS Fault Injection Simulator - is not a Dutch fish (even though Werner is from Amsterdam), also not fizz either #3syllables
+A-M-P - Amazon Managed Service for Prometheus - does not plug into your guitar, not does it power your home - it has #3syllables.
+A-M-G - Amazon Managed Service for Grafana - is not a-mig (even though it is rumoured that it can go supersonic) - it has #3syllables
