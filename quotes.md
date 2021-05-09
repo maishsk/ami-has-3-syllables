@@ -36,3 +36,4 @@ AWS for Aerospace and Satellite (A&S) Solutions is not called AWS ASS - it has #
 F-I-S - AWS Fault Injection Simulator - is not a Dutch fish (even though Werner is from Amsterdam), also not fizz either #3syllables
 A-M-P - Amazon Managed Service for Prometheus - does not plug into your guitar, not does it power your home - it has #3syllables.
 A-M-G - Amazon Managed Service for Grafana - is not a-mig (even though it is rumoured that it can go supersonic) - it has #3syllables
+It is pronounced pre-mi-ses !! Yes with #3syllables! Just like A-M-I !! 
